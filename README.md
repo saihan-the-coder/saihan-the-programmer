@@ -1,5 +1,3 @@
-
-
 ## Hi, my name is SAIHAN AL AARAF and this is my first time trying github!
 
 Let's get started with the introduction!

@@ -18,4 +18,9 @@ My age is 9.
 
 Here are my projects in Trinket (Python)
 
-<iframe src="https://trinket.io/embed/python/b75cce294180" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+## My Python Projects
+
+Check out my projects on Trinket:
+
+[**View my Python projects on Trinket**](https://trinket.io/embed/python/b75cce294180)
+
